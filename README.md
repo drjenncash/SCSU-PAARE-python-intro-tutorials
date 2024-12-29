@@ -12,9 +12,9 @@ The content inside these tutorials draws heavily from a wide variety of websites
 
 ## Finished Drafts
 * Tutorial 01 - Jupyter Notebooks
-  The .HTML version can be viewed in any browser
-  The .ipynb version is the actual notebook
-  A video walkthrough can be found at https://youtu.be/dbAC9TO80FY?si=C9Wr8txNYQ9ZDIyq
+ - The .HTML version can be viewed in any browser
+ - The .ipynb version is the actual notebook
+ - A video walkthrough can be found at https://youtu.be/dbAC9TO80FY?si=C9Wr8txNYQ9ZDIyq
 * Tutorial 02 - Basic Data Types
 * Tutorial 03 - Data Collection Tyoes
 
