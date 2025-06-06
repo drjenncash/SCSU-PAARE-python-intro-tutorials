@@ -21,12 +21,13 @@ The content inside these tutorials draws heavily from a wide variety of websites
 ## In Progress drafts
 * Tutorial 04 - Functions
 * Tutorial 05 - Conditionals and Control Flow
+* Tutorial 06 - Intro to Numpy
 * Tutorial 07 - Basic Data Files
 * Tutorial 09 - Visualizing Data with Matplotlib
 
 
 ## Very drafty drafts
-* Tutorial 06 - Intro to Numpy
+
 * Tutorial 08 - Astro Data Files
 * Tutorial 10 - Astropy Basics
 * Tutorial 11 - Time Series Analysis
