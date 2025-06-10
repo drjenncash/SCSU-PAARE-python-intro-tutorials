@@ -19,16 +19,16 @@ The content inside these tutorials draws heavily from a wide variety of websites
 * Tutorial 03 - Data Collection Tyoes
 
 ## In Progress drafts
-* Tutorial 04 - Functions
-* Tutorial 05 - Conditionals and Control Flow
+* Tutorial 04 - Conditionals and Control Flow
+* Tutorial 05 - Functions
 * Tutorial 06 - Intro to Numpy
 * Tutorial 07 - Basic Data Files
-* Tutorial 09 - Visualizing Data with Matplotlib
+* Tutorial 08 - Visualizing Data with Matplotlib
 
 
 ## Very drafty drafts
 
-* Tutorial 08 - Astro Data Files
+* Tutorial 09 - Astro Data Files
 * Tutorial 10 - Astropy Basics
 * Tutorial 11 - Time Series Analysis
 * Tutorial 12 - Curve Fitting
