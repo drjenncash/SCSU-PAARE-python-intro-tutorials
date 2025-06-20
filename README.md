@@ -3,7 +3,7 @@ Holding space for the tutorials being created in the PAARE project with SC State
 
 **Primary Purpose:**
 
-These tutorials are designed to introduce our project participants to the Python programming language with an emphasis on Data Science and a slant toward the Astronomy of variable sources. 
+These tutorials are designed to introduce our project participants to the Python programming language, emphasizing Data Science with a slant toward the Astronomy of variable sources. 
 
 It is expected that the notebooks will also be valuable as a starting place for others learning Python for astronomy. 
 
@@ -11,12 +11,13 @@ The content inside these tutorials draws heavily from a wide variety of websites
 
 
 ## Finished Drafts
+* Data folder - This folder will include all data files needed for the tutorial in the finished drafts
 * Tutorial 01 - Jupyter Notebooks
    * The .HTML version can be viewed in any browser
    * The .ipynb version is the actual notebook
    * A video walkthrough can be found at https://youtu.be/dbAC9TO80FY?si=C9Wr8txNYQ9ZDIyq
 * Tutorial 02 - Basic Data Types
-* Tutorial 03 - Data Collection Tyoes
+* Tutorial 03 - Data Collection Types
 
 ## In Progress drafts
 * Tutorial 04 - Conditionals and Control Flow
