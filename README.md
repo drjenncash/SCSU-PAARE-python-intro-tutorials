@@ -18,9 +18,9 @@ The content inside these tutorials draws heavily from a wide variety of websites
    * A video walkthrough can be found at https://youtu.be/dbAC9TO80FY?si=C9Wr8txNYQ9ZDIyq
 * Tutorial 02 - Basic Data Types
 * Tutorial 03 - Data Collection Types
+* Tutorial 04 - Conditionals and Control Flow
 
 ## In Progress drafts
-* Tutorial 04 - Conditionals and Control Flow
 * Tutorial 05 - Functions
 * Tutorial 06 - Intro to Numpy
 * Tutorial 07 - Basic Data Files
