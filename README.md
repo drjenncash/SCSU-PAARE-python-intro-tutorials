@@ -19,9 +19,9 @@ The content inside these tutorials draws heavily from a wide variety of websites
 * Tutorial 02 - Basic Data Types
 * Tutorial 03 - Data Collection Types
 * Tutorial 04 - Conditionals and Control Flow
+* Tutorial 05 - Functions
 
 ## In Progress drafts
-* Tutorial 05 - Functions
 * Tutorial 06 - Intro to Numpy
 * Tutorial 07 - Basic Data Files
 * Tutorial 08 - Visualizing Data with Matplotlib
