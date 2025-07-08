@@ -33,3 +33,10 @@ The content inside these tutorials draws heavily from a wide variety of websites
 * Tutorial 10 - Astropy Basics
 * Tutorial 11 - Time Series Analysis
 * Tutorial 12 - Curve Fitting
+
+
+
+## Additional Sources for Tutorials
+
+* https://www.learnpython.org/
+* https://github.com/krittikaiitb/tutorials
