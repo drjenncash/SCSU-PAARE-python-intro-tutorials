@@ -25,6 +25,7 @@ The content inside these tutorials draws heavily from a wide variety of websites
 * Tutorial 06 - Intro to Numpy
 * Tutorial 07 - Basic Data Files
 * Tutorial 08 - Visualizing Data with Matplotlib
+* Tutorial - Time and Coordinates
 
 
 ## Very drafty drafts
