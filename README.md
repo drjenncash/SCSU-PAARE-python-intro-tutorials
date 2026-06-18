@@ -72,7 +72,7 @@ Users with previous python experience may be able to skip over the tutorials in 
 
 **Topics Covered**
 
-* Background 
+* Background on Jupyter Notebooks
 * Cells
     * Cell Types
     * Executing Cells
