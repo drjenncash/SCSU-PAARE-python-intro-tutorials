@@ -83,6 +83,7 @@ Users with previous python experience may be able to skip over the tutorials in 
 
 * Minimal astronomy is covered in this tutorial. There are mentions of the use of Jupyter notebooks on the Rubin Science Platform and modules that are commonly used in astronomy.
 
+
 #### Tutorial 02 – Data Types and Operations
 
 **Topics Covered**
